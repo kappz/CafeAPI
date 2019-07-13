@@ -1,0 +1,14 @@
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\bin\Debug\netcoreapp2.2\CafeMenuAPI.deps.json
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\bin\Debug\netcoreapp2.2\CafeMenuAPI.runtimeconfig.json
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\bin\Debug\netcoreapp2.2\CafeMenuAPI.runtimeconfig.dev.json
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\bin\Debug\netcoreapp2.2\CafeMenuAPI.dll
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.csprojAssemblyReference.cache
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.csproj.CoreCompileInputs.cache
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.RazorAssemblyInfo.cache
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.RazorAssemblyInfo.cs
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.AssemblyInfoInputs.cache
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.AssemblyInfo.cs
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.RazorTargetAssemblyInfo.cache
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\bin\Debug\netcoreapp2.2\CafeMenuAPI.pdb
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.dll
+C:\Users\addco\source\repos\CafeMenuAPI\CafeMenuAPI\obj\Debug\netcoreapp2.2\CafeMenuAPI.pdb
